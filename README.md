@@ -1,4 +1,4 @@
-An arcchive of clean game script files from past versions of the game [Rotwood](https://store.steampowered.com/app/2015270/Rotwood/).
+An archive of clean game script files from past versions of the game [Rotwood](https://store.steampowered.com/app/2015270/Rotwood/).
 
 Files were taken from clean installations of Rotwood.
 
