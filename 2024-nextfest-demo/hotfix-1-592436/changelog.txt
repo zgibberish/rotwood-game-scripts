@@ -1,0 +1,21 @@
+Hotfix 1 [592436]
+
+Bugs & Crashes
+	- Fixed a crash that could happen when your controller disconnected
+	- Fixed some issues where players were somehow entering a game before creating a character
+	- Fixed a crash that could happen when a player had no input method assigned
+	- Fixed a bug where players could see different items in the same market
+	- Fixed a bug where projectiles would occasionally get stuck in the air
+	- Fixed a crash that could happen when killing an enemy in the middle of an attack
+	- Fixed a softlock where a Bulbin could become invisible and prevent progress.
+	- The Create Character screen now closes if the owning player leaves.
+	- Fixed a bug where shield could be displayed incorrectly in player health bars.
+
+Changes
+	- Bulbin
+		+ Adjusted 3-stack Bulbin slam hitbox to match visuals more closely
+
+	- Misc
+		+ Adjusted text in several NPC conversations
+		+ Added contextual popups to remind the player how to reload the cannon the first few times they run out of ammo.
+		+ Described more clearly what is disabled when opting out of data collection

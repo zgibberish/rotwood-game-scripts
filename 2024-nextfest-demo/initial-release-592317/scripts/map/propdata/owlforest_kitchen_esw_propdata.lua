@@ -1,0 +1,38 @@
+return {
+  flower_coralbell={
+    { x=-5.0, z=5.0,},
+    { x=-11.0, z=-12.0,},
+    { x=-9.0, z=7.0,},
+    { x=8.0, z=4.0,},
+    { x=8.0, z=-11.0,},
+  },
+  forest_floor_grass={
+    { hsb={ brightness=-14, hue=-11, saturation=-12,}, variation=2, x=-8.08, z=4.29,},
+    { hsb={ brightness=-14, hue=-11, saturation=-12,}, variation=1, x=4.52, z=6.94,},
+    { hsb={ brightness=-14, hue=-11, saturation=-12,}, variation=2, x=-8.12, z=-12.1,},
+    {
+      hsb={ brightness=-14, hue=-11, saturation=-12,},
+      variation=2,
+      x=-9.45,
+      z=-10.86,
+    },
+    { hsb={ brightness=-14, hue=-11, saturation=-12,}, variation=1, x=-12.39, z=-7.2,},
+    {
+      flip=true,
+      hsb={ brightness=-14, hue=-11, saturation=-12,},
+      variation=2,
+      x=8.09,
+      z=8.34,
+    },
+    { hsb={ brightness=-14, hue=-11, saturation=-12,}, variation=3, x=8.56, z=4.35,},
+  },
+  forest_grid_berryshrub={ { x=-6.0, z=7.0,}, { x=-9.0, z=-10.0,}, { x=10.0, z=-10.0,},},
+  forest_grid_tree_owl={ { z=7.0,}, { x=7.0, z=7.0,},},
+  kitchen={ { x=1.0, z=2.0,},},
+  kitchen_barrel={ { variation=1, x=4.0, z=6.0,}, { variation=1, x=6.0, z=5.0,},},
+  kitchen_chair={ { flip=true, x=-11.0, z=-9.0,},},
+  kitchen_sign={ { x=-4.5, z=-0.5,},},
+  spawner_npc_dungeon={ { x=4.0, z=-3.0,},},
+  street_lamp={ { x=-8.5, z=4.5,}, { x=-8.5, z=-8.5,},},
+  tree_hangings={ { x=3.5, z=6.5,},},
+}

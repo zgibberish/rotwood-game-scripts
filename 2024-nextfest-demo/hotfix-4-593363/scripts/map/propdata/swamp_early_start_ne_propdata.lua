@@ -1,0 +1,193 @@
+return {
+  bandiforest_bg_boulder={
+    { variation=2, x=-4.66, z=22.89 },
+    { variation=2, x=-20.09, z=13.0 },
+    { variation=1, x=-14.57, z=28.35 },
+    { variation=2, x=-26.48, z=29.47 },
+    { variation=3, x=3.03, z=27.2 },
+    { variation=1, x=11.57, z=23.8 },
+    { variation=2, x=27.33, z=17.7 },
+    { variation=3, x=18.87, z=12.42 },
+    { variation=3, x=22.29, z=20.1 },
+    { variation=3, x=-31.35, z=19.57 },
+    { variation=1, x=-27.07, z=18.96 },
+    { variation=2, x=20.13, z=25.79 },
+    { variation=1, x=-29.56, z=9.99 },
+    { variation=2, x=34.08, z=16.72 },
+    { variation=3, x=37.49, z=20.47 },
+    { variation=2, x=-14.5, z=-12.25 } 
+  },
+  bandiforest_bg_pokeytendril={ { variation=1, x=-5.4, z=5.6 }, { variation=2, x=1.98, z=-5.86 } },
+  bandiforest_bg_tendril={
+    { variation=2, x=14.32, z=14.02 },
+    { variation=2, x=15.28, z=15.96 },
+    { variation=2, x=10.86, z=17.37 },
+    { variation=5, x=-10.79, z=13.24 },
+    { variation=2, x=-5.25, z=22.04 },
+    { variation=4, x=-14.37, z=19.39 },
+    { variation=5, x=-13.4, z=19.79 },
+    { variation=2, x=-15.26, z=11.47 },
+    { variation=3, x=-17.36, z=8.41 },
+    { variation=1, x=-17.24, z=2.27 },
+    { variation=3, x=-16.97, z=-3.17 },
+    { variation=5, x=-21.33, z=-3.5 },
+    { variation=5, x=-15.32, z=-4.86 },
+    { variation=1, x=15.52, z=6.92 },
+    { variation=3, x=14.96, z=-6.2 },
+    { variation=5, x=25.12, z=12.24 },
+    { variation=1, x=-15.41, z=5.77 },
+    { variation=5, x=13.26, z=16.39 } 
+  },
+  bandiforest_bg_tree={
+    { brightness=-3.0, variation=3, x=-19.68, z=7.04 },
+    { variation=4, x=-7.68, z=20.09 },
+    { brightness=-26.0, saturation=24.0, variation=4, x=-28.2, z=14.25 },
+    { variation=3, x=-1.19, z=27.67 },
+    { brightness=-19.0, saturation=13.0, variation=2, x=5.23, z=23.06 },
+    { brightness=-19.0, saturation=18.0, variation=1, x=-16.95, z=18.68 },
+    { brightness=-10.0, saturation=6.0, variation=2, x=-24.17, z=5.35 },
+    { variation=3, x=-23.56, z=-3.56 },
+    { brightness=-19.0, saturation=13.0, variation=2, x=-23.99, z=21.05 },
+    { variation=1, x=19.94, z=-5.71 },
+    { brightness=-10.0, saturation=10.0, variation=4, x=25.85, z=4.97 },
+    { brightness=-28.0, saturation=21.0, variation=3, x=26.97, z=9.76 },
+    { brightness=-14.0, saturation=7.0, variation=3, x=22.76, z=11.28 },
+    { brightness=-5.0, variation=1, x=8.49, z=19.81 },
+    { brightness=-24.0, saturation=13.0, variation=2, x=-33.3, z=11.48 },
+    { brightness=-8.0, saturation=12.0, variation=1, x=-21.31, z=-10.64 },
+    { brightness=-11.0, saturation=8.0, variation=1, x=-11.39, z=23.09 },
+    { brightness=-24.0, saturation=17.0, variation=3, x=-20.14, z=0.31 },
+    { variation=3, x=19.0, z=19.15 },
+    { brightness=-10.0, saturation=6.0, variation=2, x=14.94, z=21.87 },
+    { variation=4, x=26.74, z=-10.66 } 
+  },
+  bandiforest_fg_boulder={
+    { variation=4, x=-2.08, z=-20.32 },
+    { flip=true, variation=3, x=2.42, z=-18.4 },
+    { variation=2, x=-8.77, z=-17.78 },
+    { variation=5, x=11.9, z=-21.13 },
+    { variation=1, x=12.73, z=-15.27 },
+    { variation=2, x=14.56, z=-17.83 } 
+  },
+  bandiforest_fg_canopy={
+    { variation=2, x=-7.42, z=-5.91 },
+    { variation=3, x=-13.34, z=-11.81 },
+    { variation=1, x=14.09, z=-20.15 } 
+  },
+  bandiforest_fg_tendril={
+    { variation=2, x=-8.14, z=-14.0 },
+    { variation=3, x=2.15, z=-14.44 },
+    { variation=1, x=3.73, z=-15.15 },
+    { variation=3, x=12.54, z=-10.7 },
+    { variation=3, x=15.74, z=-21.77 },
+    { variation=2, x=18.23, z=-19.12 },
+    { variation=1, x=-6.2, z=-13.99 },
+    { variation=1, x=8.59, z=-16.76 } 
+  },
+  bandiforest_fg_tree={
+    { variation=1, x=18.32, z=-15.68 },
+    { variation=3, x=-15.03, z=-15.41 },
+    { variation=4, x=-20.44, z=-23.91 },
+    { variation=3, x=21.59, z=-21.0 },
+    { variation=1, x=-19.54, z=-21.43 } 
+  },
+  bandiforest_floor_lilypad={
+    { variation=2, x=-15.66, y=-1.35, z=1.34 },
+    { variation=1, x=-16.81, y=-1.35, z=10.32 },
+    { variation=2, x=-20.22, y=-1.35, z=3.9 },
+    { variation=3, x=-8.7, y=-1.35, z=17.19 },
+    { variation=2, x=4.85, y=-1.35, z=19.9 },
+    { variation=2, x=15.72, y=-1.35, z=11.14 },
+    { variation=1, x=18.84, y=-1.35, z=8.95 },
+    { variation=1, x=16.87, y=-1.35, z=-11.99 } 
+  },
+  bandiforest_grid_goop={ { x=-6.5, z=-10.5 }, { x=9.5, z=6.5 }, { x=-10.5, z=-0.5 } },
+  bandiforest_grid_goop2={ { x=-11.32, z=-2.61 }, { x=-5.86, z=-9.1 }, { x=6.27, z=-8.05 } },
+  bandiforest_grid_goop3={ { x=9.95, z=5.78 }, { x=-7.68, z=-9.17 } },
+  bandiforest_ul_fartree={
+    { variation=1, x=-3.72, z=36.87 },
+    { variation=1, x=0.2, z=34.75 },
+    { variation=4, x=4.51, z=33.8 },
+    { variation=4, x=-6.54, z=32.61 },
+    { variation=2, x=-11.68, z=31.82 },
+    { variation=4, x=-16.3, z=34.5 },
+    { variation=1, x=-19.93, z=32.3 },
+    { variation=2, x=-27.61, z=32.78 },
+    { variation=1, x=-32.18, z=32.78 },
+    { variation=3, x=-36.6, z=31.69 },
+    { variation=3, x=-40.25, z=31.69 },
+    { variation=1, x=-24.08, z=32.78 },
+    { variation=4, x=6.7, z=33.25 },
+    { variation=4, x=11.73, z=33.49 },
+    { variation=1, x=20.65, z=31.84 },
+    { variation=3, x=17.03, z=31.84 },
+    { variation=2, x=30.81, z=32.62 },
+    { variation=2, x=25.95, z=32.54 },
+    { variation=3, x=35.81, z=32.47 } 
+  },
+  bandiforest_up_canopy={
+    { variation=2, x=12.91, z=12.03 },
+    { variation=2, x=-17.76, z=10.37 },
+    { variation=1, x=-1.47, z=14.02 } 
+  },
+  destructible_twig_shorty={ { x=-4.0, z=-4.0 }, { x=7.0, z=8.0 } },
+  destructible_twig_tall={ { x=-7.0, z=10.0 }, { x=-7.0, z=1.0 } },
+  lightspot_leafy={
+    {
+      script_args={
+        animate=true,
+        intensity=1,
+        light_color="273830FF",
+        max_rotation=4.4109997749329,
+        max_translation=0.070000000298023,
+        rot_speed=0.29899999499321,
+        rotation=0,
+        scale=10,
+        shimmer=true,
+        shimmer_speed=0.69499999284744,
+        shimmer_strength=0.10199999809265,
+        trans_speed=0.61000001430511 
+      },
+      variation=2,
+      x=2.5,
+      z=6.8 
+    },
+    {
+      script_args={
+        animate=true,
+        light_color="273830FF",
+        max_rotation=4.4109997749329,
+        max_translation=0.070000000298023,
+        rot_speed=0.29899999499321,
+        rotation=0,
+        scale=10,
+        shimmer=true,
+        shimmer_speed=0.69499999284744,
+        shimmer_strength=0.10199999809265,
+        trans_speed=0.61000001430511 
+      },
+      variation=3,
+      x=3.47,
+      z=-3.79 
+    },
+    {
+      script_args={
+        animate=true,
+        intensity=1,
+        light_color="273830FF",
+        max_rotation=4.4109997749329,
+        max_translation=0.070000000298023,
+        rot_speed=0.29899999499321,
+        rotation=0,
+        scale=10,
+        shimmer=true,
+        shimmer_speed=0.69499999284744,
+        shimmer_strength=0.10199999809265,
+        trans_speed=0.61000001430511 
+      },
+      variation=1,
+      x=-3.29,
+      z=1.69 
+    } 
+  } 
+}

@@ -1,0 +1,131 @@
+return {
+  decor_rock={
+    { variation=2, x=1.48, z=-1.61 },
+    { variation=1, x=-11.85, z=-11.9 },
+    { variation=1, x=20.35, z=-11.6 },
+    { variation=1, x=16.44, z=15.95 },
+    { variation=3, x=11.12, z=-15.85 } 
+  },
+  forest_bg_fern={
+    {
+      brightness=18,
+      flip=true,
+      hue=-7,
+      saturation=-16,
+      variation=1,
+      x=23.15,
+      z=-16.93 
+    } 
+  },
+  forest_bg_shrub={
+    {
+      brightness=-12,
+      flip=false,
+      hue=37,
+      saturation=-9,
+      variation=2,
+      x=-28.12,
+      z=11.2 
+    },
+    {
+      brightness=-12,
+      flip=false,
+      hue=37,
+      saturation=-9,
+      variation=1,
+      x=26.88,
+      z=-21.99 
+    } 
+  },
+  forest_floor_grass={
+    { flip=false, variation=2, x=-17.88, z=8.9 },
+    { flip=false, variation=1, x=-10.11, z=12.16 },
+    { flip=true, variation=2, x=7.3, z=13.87 },
+    { flip=false, variation=3, x=10.63, z=-16.02 },
+    { flip=false, variation=1, x=18.73, z=-13.14 } 
+  },
+  forest_grid_grass={
+    { variation=3, x=-16.55, z=10.88 },
+    { variation=1, x=-14.48, z=15.14 },
+    { variation=1, x=9.29, z=15.11 },
+    { variation=3, x=15.5, z=10.5 },
+    { variation=1, x=16.41, z=11.71 },
+    { variation=3, x=12.5, z=-13.5 },
+    { variation=1, x=10.6, z=-14.12 },
+    { variation=1, x=-14.68, z=-14.89 },
+    { variation=2, x=-15.12, z=-16.72 },
+    { variation=2, x=-1.15, z=-1.9 },
+    { variation=1, x=0.5, z=-0.5 },
+    { variation=2, x=15.65, z=14.96 },
+    { variation=3, x=1.77, z=-0.22 },
+    { variation=3, x=18.53, z=-7.34 },
+    { variation=3, x=19.29, z=8.74 },
+    { variation=3, x=-15.76, z=9.91 },
+    { variation=1, x=-19.48, z=10.92 },
+    { variation=2, x=20.44, z=9.28 },
+    { variation=1, x=16.88, z=-13.76 },
+    { variation=1, x=18.29, z=-16.17 },
+    { variation=1, x=12.68, z=-16.35 },
+    { variation=2, x=-11.19, z=-14.78 } 
+  },
+  forest_grid_tallgrass={
+    { x=-14.62, z=10.83 },
+    { x=-12.28, z=11.32 },
+    { x=-8.75, z=14.27 },
+    { x=-9.25, z=12.05 },
+    { x=-18.37, z=9.43 },
+    { x=-20.24, z=13.54 },
+    { x=-16.12, z=15.39 },
+    { x=-17.41, z=14.91 },
+    { x=-19.85, z=8.26 },
+    { x=11.71, z=14.4 },
+    { x=9.93, z=13.32 },
+    { x=14.39, z=11.59 },
+    { x=12.8, z=12.49 },
+    { x=16.53, z=9.35 },
+    { x=18.48, z=8.55 },
+    { x=19.42, z=15.76 },
+    { x=17.29, z=14.64 },
+    { x=18.38, z=12.65 },
+    { x=8.06, z=16.0 },
+    { x=19.61, z=-6.76 },
+    { x=15.29, z=-13.01 },
+    { x=18.18, z=-8.66 },
+    { x=17.24, z=-10.06 },
+    { x=14.23, z=-14.16 },
+    { x=9.37, z=-15.66 },
+    { x=10.87, z=-16.52 },
+    { x=12.45, z=-14.48 },
+    { x=14.11, z=-16.28 },
+    { x=18.8, z=-15.08 },
+    { x=19.87, z=-16.34 },
+    { x=17.31, z=-11.82 },
+    { x=19.49, z=-12.0 },
+    { x=-9.99, z=-16.27 },
+    { x=-19.64, z=-9.12 },
+    { x=-18.03, z=-11.76 },
+    { x=-16.54, z=-13.35 },
+    { x=-19.01, z=-13.76 },
+    { x=-20.09, z=-15.95 },
+    { x=-16.22, z=-15.79 },
+    { x=-13.27, z=-14.69 },
+    { x=-12.08, z=-16.19 } 
+  },
+  lightspot_circle={
+    { script_args={ light_color="4D453FFF" }, variation=1, x=-3.67, z=-1.69 },
+    { script_args={ light_color="4D453FFF" }, variation=1, x=-10.65, z=-4.72 },
+    { script_args={ light_color="4D453FFF" }, variation=2, x=3.17, z=-8.23 },
+    { script_args={ light_color="4D453FFF" }, variation=1, x=10.95, z=0.37 },
+    { script_args={ light_color="4D453FFF" }, variation=1, x=-2.21, z=4.64 } 
+  },
+  shrub={
+    { brightness=-24, hue=12, saturation=-13, x=-10.0, z=15.0 },
+    { brightness=-24, hue=12, saturation=-13, x=-18.0, z=13.0 },
+    { brightness=-24, hue=12, saturation=-13, x=13.0, z=15.0 },
+    { brightness=-24, hue=12, saturation=-13, x=20.0, z=11.0 },
+    { brightness=-24, hue=12, saturation=-13, x=13.0, z=-15.0 },
+    { brightness=-24, hue=12, saturation=-13, x=16.0, z=-16.0 },
+    { brightness=-24, hue=12, saturation=-13, x=-20.0, z=-11.0 },
+    { brightness=-24, hue=12, saturation=-13, x=20.0, z=-10.0 } 
+  } 
+}

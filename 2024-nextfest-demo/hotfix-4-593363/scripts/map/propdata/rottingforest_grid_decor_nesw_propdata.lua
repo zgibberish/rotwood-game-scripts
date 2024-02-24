@@ -1,0 +1,150 @@
+return {
+  lightspot_leafy={
+    { variation=3, x=-2.89, z=4.76 },
+    { variation=2, x=-9.15, z=-7.41 },
+    { variation=4, x=-2.83, z=-10.77 },
+    { flip=true, variation=1, x=8.61, z=-0.16 } 
+  },
+  rottingforest_bg_lowpile={
+    { variation=1, x=-32.85, z=7.69 },
+    { variation=1, x=-30.62, z=45.24 },
+    { fade={ bottom=-4.16, top=-1.51 }, variation=1, x=-23.99, z=37.42 },
+    { variation=1, x=2.94, z=38.41 } 
+  },
+  rottingforest_bg_pile={
+    { brightness=-35, hue=-17, saturation=-7, variation=2, x=30.21, z=26.83 },
+    { brightness=-12, hue=-3, saturation=1, variation=1, x=-15.7, z=30.59 },
+    { fade={ bottom=-3.14, top=-0.26 }, variation=4, x=-24.7, z=5.23 },
+    { variation=3, x=16.62, z=22.88 },
+    { variation=2, x=-32.84, z=14.77 },
+    {
+      brightness=-14.0,
+      fade={ bottom=-2.44, top=-0.1 },
+      hue=-2,
+      saturation=-3.0,
+      variation=1,
+      x=32.84,
+      z=10.11 
+    },
+    { variation=3, x=-10.39, z=24.47 },
+    { hue=-11.0, variation=3, x=-30.0, z=9.42 },
+    { brightness=-31, hue=10, saturation=25, variation=4, x=-43.67, z=43.98 },
+    { flip=true, variation=4, x=25.76, z=8.23 },
+    { variation=4, x=5.31, z=30.02 },
+    { hue=-2.0, saturation=-9.0, variation=4, x=19.83, z=28.28 },
+    { variation=3, x=22.75, z=22.38 },
+    { variation=3, x=-25.02, z=29.9 },
+    { brightness=-35.0, saturation=11.0, variation=2, x=-32.86, z=34.54 },
+    { brightness=-35, saturation=11, variation=4, x=-4.38, z=32.26 },
+    { brightness=-35, hue=-17.0, saturation=-7.0, variation=2, x=-43.91, z=30.24 },
+    { variation=3, x=43.02, z=28.11 },
+    { brightness=-42.0, saturation=25.0, variation=4, x=5.53, z=44.51 },
+    { brightness=-42, saturation=25, variation=4, x=-2.42, z=45.58 },
+    { brightness=-31.0, hue=10.0, saturation=25, variation=2, x=17.41, z=36.2 },
+    { variation=3, x=12.21, z=44.45 },
+    { brightness=-42, hue=-7.0, saturation=17.0, variation=1, x=22.5, z=37.79 },
+    { brightness=-12.0, hue=-11, variation=3, x=25.41, z=0.54 },
+    { brightness=-12.0, hue=-12.0, variation=4, x=-12.48, z=49.51 },
+    { brightness=-42, hue=-7, saturation=17, variation=2, x=33.19, z=39.88 },
+    { hue=-11, variation=4, x=-26.64, z=39.55 } 
+  },
+  rottingforest_bg_root={
+    { brightness=-12, hue=-3, saturation=12, variation=3, x=-6.4, z=26.98 },
+    { variation=1, x=3.47, z=20.57 },
+    { variation=2, x=-12.94, z=22.43 },
+    { variation=2, x=29.94, z=4.42 },
+    { brightness=-11.0, hue=2, saturation=8.0, variation=2, x=28.9, z=-5.9 },
+    { brightness=-12, hue=-3, saturation=12, variation=4, x=22.33, z=24.37 },
+    { variation=5, x=-28.65, z=-5.54 },
+    { brightness=-12, hue=-3, saturation=1, variation=4, x=-30.85, z=17.45 },
+    { variation=6, x=-27.03, z=7.23 },
+    { brightness=-22.0, hue=2.0, saturation=13.0, variation=3, x=-28.22, z=-10.68 },
+    { variation=6, x=10.86, z=18.75 },
+    { variation=5, x=27.92, z=12.53 },
+    { brightness=-22, hue=2, saturation=13, variation=4, x=29.85, z=-12.98 },
+    { brightness=-12.0, hue=-3.0, saturation=12.0, variation=4, x=-21.47, z=27.52 } 
+  },
+  rottingforest_bg_shroom={
+    { variation=1, x=-2.13, z=24.06 },
+    { variation=2, x=-10.93, z=36.53 },
+    { variation=2, x=-24.33, z=12.56 },
+    { variation=1, x=-31.3, z=33.94 },
+    { variation=2, x=6.18, z=33.12 },
+    { variation=3, x=-27.55, z=11.63 },
+    { variation=1, x=25.17, z=19.83 },
+    { variation=2, x=28.6, z=22.42 },
+    { variation=3, x=2.34, z=36.9 },
+    { variation=1, x=-24.73, z=-6.74 } 
+  },
+  rottingforest_bg_shrooms={
+    { variation=1, x=-24.16, z=26.15 },
+    { variation=1, x=12.38, z=25.3 },
+    { variation=1, x=27.22, z=11.61 },
+    { variation=2, x=-23.31, z=15.08 },
+    { variation=2, x=-3.71, z=26.81 },
+    { fade={ bottom=-3.22, top=-0.73 }, variation=2, x=26.81, z=-6.67 },
+    { fade={ bottom=-2.91, top=-0.57 }, variation=2, x=-23.75, z=-11.61 },
+    { variation=2, x=30.93, z=21.45 } 
+  },
+  rottingforest_bg_tree={
+    { variation=4, x=14.75, z=32.38 },
+    { variation=3, x=32.94, z=36.39 },
+    { variation=2, x=-4.45, z=28.6 },
+    { variation=3, x=-19.04, z=41.4 },
+    { variation=4, x=-38.48, z=28.48 },
+    { variation=1, x=-35.26, z=49.11 },
+    { variation=1, x=40.26, z=14.85 },
+    { variation=4, x=4.61, z=43.57 } 
+  },
+  rottingforest_fg_canopy={
+    { variation=3, x=22.3, z=-15.21 },
+    { variation=3, x=8.57, z=1.47 },
+    { variation=2, x=26.43, z=-18.66 },
+    { variation=1, x=-22.41, z=-13.31 },
+    { variation=4, x=-13.29, z=-8.7 },
+    { variation=2, x=-22.73, z=-22.18 },
+    { variation=2, x=22.45, z=-25.04 } 
+  },
+  rottingforest_grid_button={ { x=-7.0, z=14.0 }, { x=7.0, z=11.0 } },
+  rottingforest_grid_neon={
+    { variation=2, x=-13.0, z=10.0 },
+    { variation=1, x=-12.0, z=-13.0 },
+    { variation=1, x=19.0, z=-12.0 },
+    { variation=2, x=17.0, z=-13.0 },
+    { variation=1, x=-16.0, z=12.0 } 
+  },
+  rottingforest_grid_tree={
+    { x=-11.0, z=13.0 },
+    { x=-18.0, z=-15.0 },
+    { x=18.0, z=11.0 },
+    { x=14.0, z=14.0 } 
+  },
+  rottingforest_grid_wiggly={ { x=-10.0, z=-14.0 }, { x=-18.0, z=11.0 }, { x=16.0, z=13.0 } },
+  rottingforest_up_canopy={
+    { brightness=-15, hue=15, saturation=6, variation=4, x=-8.26, z=41.84 },
+    { brightness=15.0, hue=10.0, variation=5, x=-0.16, z=23.86 },
+    { brightness=-9, hue=4, saturation=4, variation=1, x=-33.61, z=31.29 },
+    { brightness=-9.0, hue=4.0, saturation=4.0, variation=3, x=-25.63, z=37.98 },
+    { brightness=-15.0, hue=15.0, saturation=6.0, variation=4, x=25.57, z=38.22 },
+    { variation=3, x=19.89, z=32.69 },
+    { variation=2, x=6.02, z=35.56 },
+    { variation=4, x=33.83, z=27.99 },
+    { variation=2, x=-27.3, z=26.04 },
+    { variation=4, x=-36.01, z=22.27 },
+    {
+      brightness=-13.0,
+      fade={ bottom=15.87, top=11.12 },
+      hue=-8.0,
+      saturation=12.0,
+      variation=5,
+      x=-33.2,
+      z=6.51 
+    },
+    { brightness=15, hue=10, variation=5, x=11.18, z=22.06 },
+    { variation=4, x=-15.63, z=30.3 },
+    { variation=2, x=28.65, z=33.84 },
+    { brightness=-10.0, hue=3.0, saturation=3.0, variation=1, x=-11.61, z=38.38 },
+    { variation=4, x=17.65, z=31.17 },
+    { variation=2, x=30.79, z=4.35 } 
+  } 
+}

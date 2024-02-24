@@ -1,0 +1,61 @@
+return {
+  decor_rock={
+    { variation=2, x=-10.72, z=-8.22,},
+    { variation=3, x=5.82, z=3.82,},
+    { variation=2, x=-3.45, z=7.04,},
+  },
+  flower_bush={ { x=-9.0, z=7.0,}, { x=-5.0, z=5.0,},},
+  flower_coralbell={ { x=-11.0, z=-12.0,}, { x=8.0, z=4.0,}, { x=8.0, z=-11.0,},},
+  forest_floor_grass={
+    { hsb={ brightness=-14, hue=-11, saturation=-12,}, variation=2, x=7.27, z=6.13,},
+    {
+      hsb={ brightness=-14.0, hue=-11.0, saturation=-12.0,},
+      variation=1,
+      x=4.52,
+      z=6.94,
+    },
+    {
+      hsb={ brightness=-14, hue=-11, saturation=-12,},
+      variation=2,
+      x=-8.35,
+      z=-11.07,
+    },
+    {
+      hsb={ brightness=-14, hue=-11, saturation=-12,},
+      variation=2,
+      x=11.81,
+      z=-10.84,
+    },
+    {
+      hsb={ brightness=-14, hue=-11, saturation=-12,},
+      variation=1,
+      x=-11.01,
+      z=-9.58,
+    },
+    {
+      flip=true,
+      hsb={ brightness=-14, hue=-11, saturation=-12,},
+      variation=2,
+      x=8.21,
+      z=7.8,
+    },
+    { hsb={ brightness=-14, hue=-11, saturation=-12,}, variation=3, x=9.85, z=7.38,},
+  },
+  forest_grid_berryshrub={
+    { x=-6.0, z=7.0,},
+    { x=-12.0, z=-9.0,},
+    { x=-8.0, z=-12.0,},
+    { x=11.0, z=-9.0,},
+    { x=1.0, z=6.0,},
+  },
+  forest_grid_grass={
+    { hsb={ brightness=-2, hue=-27, saturation=30,}, variation=2, x=-1.89, z=6.31,},
+    { hsb={ brightness=-2, hue=-27, saturation=30,}, variation=3, x=-4.36, z=3.18,},
+    { hsb={ brightness=-2, hue=-27, saturation=30,}, variation=3, x=9.69, z=-8.42,},
+    { hsb={ brightness=-2, hue=-27, saturation=30,}, variation=1, x=-2.7, z=7.91,},
+    { hsb={ brightness=-2, hue=-27, saturation=30,}, variation=1, x=6.26, z=7.74,},
+  },
+  forest_grid_tree_owl={ { x=-1.0, z=7.0,}, { x=7.0, z=7.0,},},
+  specialevent_host={ { x=3.0, z=2.0,},},
+  specialeventroom={ { x=0.74, z=-1.73,},},
+}

@@ -1,0 +1,27 @@
+Hotfix 4 [593363]
+
+Bugs & Crashes
+	- Owlitzer
+		+ Fixed an issue where Owlitzer's wind gust attack did not work on anyone but the host
+		+ Owlitzer's spikeballs can no longer hit remote players immediately after they spawn
+
+	- Gustree
+		+ Possible fix for issue where the Gustree's wind effect could remain active even after death.
+
+	- Thinking with Portals
+		+ The cannon can now summon portals
+
+	- Misc
+		+ Solved an issue that allowed players to start the game with an invalid save file
+		+ Fixed a crash in the end of run flow
+		+ Fixed a crash related to Orb of ZAP!
+		+ Fixed a crash that could happen when joining a game in progress
+		+ Fixed a softlock where enemies could remain in the room with 1 health
+
+Changes
+	- Striker
+		+ Adjusted FX for the striker's landing zones to make it easier to tell different strikers apart in multiplayer
+
+	- Misc
+		+ The loot you pick up in rooms no longer covers the map
+		+ Updated the framerate of player UI animations

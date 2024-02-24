@@ -1,0 +1,14 @@
+Patch 8 [587233]
+
+Bugs & Crashes
+	- Mossquito:
+		+ Can no longer heal by hitting non-living objects.
+	- Gnarlic:
+		+ Fixed a bug where gnarlic would try to play an invalid animation and disappear from the world.
+	- Gustree:
+		+ Fixed issue where Gustrees would sometimes spawn out of the map.
+	- Thinking with Portals:
+		+ Portals can no longer teleport thorn traps.
+	- Misc:
+		+ Fix for disconnecting and re-connecting a gamepad. It should now properly reset the button press callbacks.
+		+ Fixed crash when a dead entity's ownership is lost and then regained.
