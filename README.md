@@ -1,4 +1,4 @@
-### (April 2024) Starting from the release of Early Access, I will not be uploading or actively maintaining this archive repository anymore, if you need the latest script files, you should buy the game. All the current files will be kept publicly available for anyone wanting to look around and study the game code, unless Klei wants otherwise. Best wishes.
+### (April 2024) Starting from the release of Early Access, I will not be uploading newer versions or actively maintaining this archive repository anymore, if you need the latest script files, you should buy the game. All the current files will be kept publicly available for anyone wanting to look around and study the game code, unless Klei wants otherwise. Best wishes.
 
 An archive of clean game script files from past versions of the game [Rotwood](https://store.steampowered.com/app/2015270/Rotwood/).
 
