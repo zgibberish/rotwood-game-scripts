@@ -1,0 +1,28 @@
+Hotfix 3 [592951]
+
+Bugs & Crashes
+	- Owlitzer
+		+ Fixed an issue where Owlitzer's phase transition could behave strangely if players pushed two phases at the same time
+
+	- Gourdo Vest
+		+ Fixed an issue where the healing bonuses provided by Gourdo Vest did not work in online games
+
+	- Misc
+		+ Removed tooltip showing that you can unequip armour during a hunt
+		+ Fixed a crash that could occur when spending Teffra in the Market
+		+ Fixed a bug where using the spin emote while both of your Strikers are in the world would incorrectly show a FX
+
+Changes
+	- Owlitzer
+		+ Shorted the warning time of Owlitzer's Dive Bomb attack
+
+	- Treek & Mother Treek
+		+ Root attacks can now hit targets that are only slightly airborne
+
+	- Powers
+		+ Reduced the number of drops in Fabled Relic rooms by 1
+
+	- Misc
+		+ Updated Chinese translations
+		+ Increased the frame rate of some menu animations
+		+ Adjusted sound mix

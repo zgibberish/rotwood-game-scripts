@@ -1,0 +1,35 @@
+Hotfix 2 [592686]
+
+Bugs & Crashes
+	- Owlitzer
+		+ Fixed an issue where FX spawned by Owlitzer could stay around if Owlitzer died during specific phases.
+		+ Adjusted spacing and spawn locations of owltizer line patterns to prevent them from sometimes blowing up when they land.
+
+	- Ribbat
+		+ Fixed an issue that made the Ribbat too easy to kill before it swallowed stolen Teffra
+
+	- Gnarlic
+		+ Fixed a crash that could happen if a remote player hit them during a specific attack
+
+	- Misc
+		 + Fixed a bug where changing equipment during a hunt would cause UI elements to overlap
+		 + Fixed an issue where portals could display bloom incorrectly on remote machines
+		 + Fixed a bug that could cause Berna to have nothing to say in the room where you meet her
+		 + Fixed an issue that could cause enemies to be interrupted when they should be uninteruptable
+		 + Fixed an issue where weapons unlocked in an unintended order
+		 + Taking damage from the Wanderer now always plays a hit sound
+
+Changes
+	- Powers
+		+ Waffle max health raise 500 -> 100
+		+ Pew Pew projectiles damage 200% Weapon Damage -> 50% Weapon Damage
+		+ Fix Parting Gifts refill indicator gets disrupted by having Orb of ZAP!
+
+	- Chat (bound to Y by default)
+		+ Added chat sounds to in-game chat
+		+ Added a character limit to messages sent in chat
+		+ Chat is now displayed for longer after sending a message
+		+ Chat no longer overlaps the HUD of P3
+
+	- Misc
+		+ Shortened Flitt's dungeon tips so they are quicker to read.

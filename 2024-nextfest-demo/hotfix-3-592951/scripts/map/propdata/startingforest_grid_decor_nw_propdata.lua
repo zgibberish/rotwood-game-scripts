@@ -1,0 +1,71 @@
+return {
+  decor_rock={
+    { variation=2, x=17.91, z=4.25 },
+    { variation=2, x=3.06, z=-13.6 },
+    { variation=3, x=19.65, z=-12.53 } 
+  },
+  forest_floor_grass={
+    { variation=2, x=-14.26, z=14.43 },
+    { flip=true, variation=3, x=15.86, z=15.49 },
+    { variation=1, x=18.37, z=6.49 },
+    { variation=3, x=19.73, z=5.93 },
+    { variation=2, x=15.16, z=-11.42 },
+    { variation=2, x=17.5, z=11.24 },
+    { variation=2, x=19.21, z=9.15 },
+    { variation=2, x=-15.42, z=10.2 },
+    { variation=2, x=-11.94, z=16.09 },
+    { variation=2, x=0.86, z=-15.85 },
+    { variation=2, x=16.73, z=-12.1 } 
+  },
+  forest_grid_grass={
+    { variation=2, x=13.96, z=15.39 },
+    { variation=1, x=12.98, z=16.5 },
+    { variation=2, x=13.5, z=-14.5 },
+    { variation=1, x=12.5, z=-14.5 },
+    { variation=2, x=18.24, z=-2.39 },
+    { variation=1, x=17.5, z=-10.5 },
+    { variation=3, x=19.5, z=-7.5 },
+    { variation=2, x=-17.45, z=-12.42 },
+    { variation=1, x=-16.24, z=-14.16 },
+    { variation=1, x=18.01, z=-15.58 },
+    { variation=2, x=-17.5, z=11.5 },
+    { variation=1, x=-0.15, z=-1.11 },
+    { variation=2, x=-9.38, z=10.5 },
+    { variation=2, x=-5.94, z=-14.91 },
+    { variation=2, x=-3.41, z=-15.8 },
+    { variation=1, x=4.5, z=7.5 },
+    { variation=3, x=3.5, z=7.5 },
+    { variation=3, x=-8.69, z=11.19 },
+    { variation=1, x=-4.52, z=-15.08 },
+    { variation=3, x=12.14, z=-12.97 },
+    { variation=2, x=7.96, z=-15.67 },
+    { variation=3, x=10.39, z=12.87 },
+    { variation=1, x=16.46, z=13.7 },
+    { variation=3, x=18.26, z=3.42 } 
+  },
+  lightspot_circle={
+    { script_args={ light_color="4D453FFF" }, variation=1, x=-11.38, z=-1.25 },
+    { script_args={ light_color="4D453FFF" }, variation=1, x=-4.2, z=-3.81 },
+    { script_args={ light_color="4D453FFF" }, variation=2, x=4.97, z=-6.79 },
+    { script_args={ light_color="4D453FFF" }, variation=1, x=10.1, z=-0.06 },
+    { script_args={ light_color="4D453FFF" }, variation=1, x=-2.21, z=4.64 } 
+  },
+  shrub={
+    { x=-19.0, z=15.0 },
+    { x=-20.0, z=13.0 },
+    { x=-13.0, z=13.0 },
+    { x=-16.0, z=11.0 },
+    { x=19.0, z=-4.0 },
+    { x=19.0, z=1.0 },
+    { x=9.0, z=-16.0 },
+    { x=12.0, z=12.0 },
+    { x=19.0, z=10.0 },
+    { x=10.0, z=15.0 },
+    { x=15.0, z=-14.0 },
+    { x=18.0, z=12.0 },
+    { x=-15.0, z=-16.0 },
+    { x=-13.0, z=-15.0 },
+    { x=-19.0, z=-12.0 },
+    { x=13.0, z=-16.0 } 
+  } 
+}

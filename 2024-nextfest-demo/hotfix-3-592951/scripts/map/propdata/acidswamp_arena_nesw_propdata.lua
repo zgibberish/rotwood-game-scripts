@@ -1,0 +1,31 @@
+return {
+  room_loot={ { x=0.5, z=-1.5,},},
+  spawner_creature={
+    { script_args={ creature_spawner_type="perimeter",}, x=14.24, z=14.47,},
+    { script_args={ creature_spawner_type="perimeter",}, x=23.39, z=-5.48,},
+    { script_args={ creature_spawner_type="perimeter",}, x=-14.49, z=14.92,},
+    { script_args={ creature_spawner_type="perimeter",}, x=-28.08, z=8.97,},
+    { script_args={ creature_spawner_type="battlefield",}, x=-11.0, z=9.0,},
+    { script_args={ creature_spawner_type="battlefield",}, x=12.0, z=-12.0,},
+    { script_args={ creature_spawner_type="battlefield",}, x=13.0, z=-10.0,},
+    { script_args={ creature_spawner_type="battlefield",}, x=-14.0, z=-10.0,},
+    { script_args={ creature_spawner_type="battlefield",}, x=-13.0, z=7.0,},
+    { script_args={ creature_spawner_type="battlefield",}, x=15.0, z=8.0,},
+    { script_args={ creature_spawner_type="battlefield",}, x=6.0, z=9.0,},
+    { script_args={ creature_spawner_type="battlefield",}, x=8.0, z=11.0,},
+  },
+  spawner_propdestructible={ { x=-17.0, z=9.0,}, { x=9.0, z=-8.0,}, { x=16.0, z=-2.0,}, { x=-9.0, z=-13.0,},},
+  spawner_stationaryenemy={
+    { script_args={  }, x=5.0, z=-9.0,},
+    { script_args={  }, x=2.0, z=11.0,},
+    { script_args={  }, x=-5.0, z=-11.0,},
+    { script_args={  }, x=11.0, z=9.0,},
+  },
+  spawner_trap={
+    { script_args={ trap_types={ "trap_acid",},}, x=-0.5, z=1.5,},
+    { script_args={ trap_types={ "trap_acid",},}, x=-5.5, z=-3.5,},
+    { script_args={ trap_types={ "trap_acid",},}, x=9.5, z=1.5,},
+    { script_args={ trap_types={ "trap_acid",},}, x=4.5, z=1.5,},
+    { script_args={ trap_types={ "trap_stalactite",},}, x=-5.5, z=1.5,},
+  },
+}
