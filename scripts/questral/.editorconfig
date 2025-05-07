@@ -1,0 +1,5 @@
+# files from gln are 4 space indents... for now.
+[*.lua]
+indent_size = 4
+indent_style = space
+

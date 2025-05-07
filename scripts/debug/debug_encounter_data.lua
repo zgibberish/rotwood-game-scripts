@@ -1,0 +1,1 @@
+return { acceptable_variance=20.0, ideal_health_values={ 2000, 3500, 5500 }, growth_values = { 3, 2, 2 }, }
